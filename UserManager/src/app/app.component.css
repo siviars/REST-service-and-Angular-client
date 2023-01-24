@@ -1,0 +1,13 @@
+.layer {
+  display: flex;
+  flex-direction: row;
+}
+
+.table {
+  width: 100%;
+}
+
+.form {
+  padding-right: 20px;
+}
+
